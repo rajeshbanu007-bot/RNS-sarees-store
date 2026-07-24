@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Pattu Silk Saree",
+    "category": "pattu",
+    "price": 3499,
+    "image": "saree1.jpg",
+    "description": "Pure silk with heavy zari temple border — perfect for weddings & festivals",
+    "inStock": true
+  },
+  {
+    "id": 2,
+    "name": "Premium Linen Saree",
+    "category": "linen",
+    "price": 1299,
+    "image": "saree2.jpg",
+    "description": "Lightweight, breathable & eco-friendly — ideal for all seasons",
+    "inStock": true
+  },
+  {
+    "id": 3,
+    "name": "Parey Saree",
+    "category": "parey",
+    "price": 1999,
+    "image": "saree3.jpg",
+    "description": "Sheer shimmering fabric with delicate embroidery — made for celebrations",
+    "inStock": true
+  },
+  {
+    "id": 4,
+    "name": "Designing Saree",
+    "category": "designing",
+    "price": 2499,
+    "image": "saree4.jpg",
+    "description": "Contemporary floral digital print with hand-embroidered blouse piece",
+    "inStock": true
+  }
+]
